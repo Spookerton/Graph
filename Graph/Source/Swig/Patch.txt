@@ -1,0 +1,12 @@
+Changes needed to Swig 3.0.12
+Lib/typemaps/swigmacros.swg
+Replace:
+# define %new_array(size,Type...)           (new Type[size]())
+With:
+# define %new_array(size,Type...)           (new Type[size])
+
+Lib/python/pycontainer.swg
+Replace:
+it = typename Sequence::reverse_iterator(self->erase((++it).base()));
+With:
+it = Sequence::reverse_iterator(self->erase((++it).base()));

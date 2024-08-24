@@ -1,0 +1,3700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2019-05-05 19:52\n"
+"PO-Revision-Date: 2019-04-21 16:42+0200\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Form1..Caption
+msgid "Plugin Manager"
+msgstr "Керування плагінами"
+
+#. Form1..ListView......Caption
+msgid "Plugin name"
+msgstr "Назва плагіну"
+
+#. Form1..ListView......Caption
+msgid "Version"
+msgstr "Версія"
+
+#. Form1..Panel1..Label1..Caption
+msgid "Path:"
+msgstr ""
+
+#. Form1..Panel1..ImportButton..Caption
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Імпорт"
+
+#. Form1..Panel1..UninstallButton..Caption
+msgid "Uninstall"
+msgstr "Видалити"
+
+#. Form1..Panel1..CloseButton3..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Закрити"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Відкрити файл: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Показати в легенді"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Поставте галочку аби показувати обраний об'єкт в легенді."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Розміщення"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Вище осі x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Розмістіть мітку просто над віссю x праворуч від зображення."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Нижче осі x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Розмістіть мітку прямо під віссю x праворуч від зображення."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "Ліворуч від осі y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Розмістіть мітку ліворуч від осі y над зображенням."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "Праворуч від осі y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Розмістіть мітку праворуч від осі y над зображенням."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..GridPanelEx1..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Спеціальне..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "Розмістіть мітку в довільному місці."
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Обертання"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "Показати мітку без обертання."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "Обернути мітку на 90° проти годинникової стрілки."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "Обернути мітку на 180°."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "Обернути мітку на 270° проти годинникової стрілки."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "Задати кут обертання мітки."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Експортувати до файлу..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Експортувати дану точку до кількох файлів."
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Файл"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Редагування"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadingAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Функція"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Масштаб"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Обчислювання"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "Плагіни"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Інтернет"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Допомога"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Новий"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "Створити нову систему координат."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Відкрити..."
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "Зчитати систему координат з файлу."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Зберегти"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "Записати поточну систему координат до файлу."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Зберегти як..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Записати поточну систему координат до файлу з новою назвою."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Зберегти копію як..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Зберегти копію поточної системи координат до файлу."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Зберегти як зображення..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "Зберегти показану координатну сітку як зображення."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Друк..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Надрукувати подану систему координат."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Вихід"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Вийти з програми."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Скасувати"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Скасувати останню дію."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Повторити"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Повторити останню скасовану дію."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Вирізати"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Вирізати обрану функцію або набір точок до буферу."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Копіювати"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Копіювати обрану функцію або набір точок до буферу."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Вставити"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Вставити функцію або набір точок з буферу до системи координат."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Скопіювати зображення"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Копіювати показану систему координат до буферу."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Осі..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Редагувати налаштування осей."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Опції..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Редагування опцій інтерфейсу та функцій програми."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Вставити функцію..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Вставити нову функцію."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Вставити дотичну/перпендикуляр..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Вставити дотичну або перпендикуляр для обраної функції."
+
+#. Form1..ActionManager..InsertShadingAction..Caption
+msgid "Insert shading..."
+msgstr "Вставити штрихування..."
+
+#. Form1..ActionManager..InsertShadingAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Додати штрихування до обраної функції."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Вставити ряд точок..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Вставити ряд точок."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Додати лінію тренду..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Вставити криву, котра найбільше підходить до обраного ряду точок."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Редагувати..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Редагувати обраний елемент: Функція, дотична, ряд точок і т. д."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Видалити"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Видалити дану функцію, дотичну або ряд точок."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "Вставити f'(x)..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Вставити першу похідну обраної функції."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Наближення"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "Наближення. Затисніть Shift аби масштабувати більшими кроками."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Віддалення"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "Віддалення. Затисніть Shift аби масштабувати більшими кроками."
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Вікно"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Масштабувати до обраноко користувачем вікна."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Рівносторонній"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Масштабувати осі рівномірно. Замість еліпсу буде видно правильне коло."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Стандартний"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "Скинути осі до стандартних значень."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Змістити"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Змістити вгору"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Змістити графічне поле вгору вздовж системи координат. Затисніть Shift аби зміщувати більшими кроками."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Змістити донизу"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Змістити графічне поле вниз вздовж системи координат. Затисніть Shift аби зміщувати більшими кроками."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Змістити ліворуч"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Змістити графічне поле ліворуч вздовж системи координат. Затисніть Shift аби зміщувати більшими кроками."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Змістити праворуч"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Змістити графічне поле праворуч вздовж системи координат. Затисніть Shift аби зміщувати більшими кроками."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Змістити систему"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Змістити мишею систему координат."
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Довжина шляху"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Обчислити довжину шляху між двома даними точками кривої."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Область"
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "Обчислити означений інтеграл за даним інтервалом."
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Оцінити"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Оцінити або відслідкувати обрану функцію."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "Таблиця"
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "Показати таблицю оцінки."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Зміст та покажчик"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Відкрити файл допомоги."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Перелік функцій"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Показати перелік вмонтованих функцій, котрі можна використовувати для побудови кривих."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "Веб-сторінка Graph"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "Відкрити основний браузер та відкрити сайт Graph."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Перевірити на оновлення"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "З'єднатися з домашньою сторінкою аби перевірити наявність нової версії."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Про Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Показати інформацію щодо авторських прав."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Розділювач"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Вмістити"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "Масштабувати аби показати обраний елемент."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "Вмістити все"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "Масштабувати так, аби вмістити всі елементи."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Часті Питання"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Показати перелік частих запитань та відповіді на них."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Вставити мітку..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "Вставити текстову мітку."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Пожертвувати"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Пожертвувати кошти для проекту."
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Підтримка"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Відкрити браузер зі сторінкою підтримки програми."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "Наблизити вісь x"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Наблизити лише вісь x. Затисніть Shift аби наближувати більшими кроками."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "Віддалити вісь x"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Віддаляти лише вісь x. Затисніть Shift аби віддаляти більшими кроками."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "Наблизити вісь y"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Наблизити лише вісь y. Затисніть Shift аби наближувати більшими кроками."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "Віддалити вісь y"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Віддаляти лише вісь y. Затисніть Shift аби віддаляти більшими кроками."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Вставити відношення..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Вставити нове рівняння або нерівність."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "Власні функції/сталі..."
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Створити власні функції та сталі для використання в графіках."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Анімувати..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Створити анімацію через зміну сталої."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Файл Graph..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Імпортувати файл Graph до поточної системи координат."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Ряд точок..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Імпортувати ряд точок з файлу даних."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "Документація обробника сценаріїв"
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "Показати документи для обробника сценаріїв та системи плаґінів."
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Відновити базові"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Повернути базові для програми значки панелі інструментів."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Пристосувати панель інструментів..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Пристосувати значки, показані на панелі інструментів."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Редагувати підпис..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Редагувати підпис під курсором."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Видалити підпис"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Видалити підпис під курсором."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Показувати легенду"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Оберіть аби показувати легенду в системі координат."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Шрифт..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Змінити шрифт легенди."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Верхній правий"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Показати легенду в правому верхньому куті."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Нижній правий"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Показати легенду в нижньому правому куті."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Верхній лівий"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Показати легенду в лівому верхньому куті."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Нижній лівий"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Показувати легенду в нижньому лівому куті."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Вставити відношення"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Відповідності:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Умови:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "Гаразд"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Текст легенди"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Опис:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Додайте текст опису, котрий буде показано в легенді та списку функцій. Якщо не додасте, буде показано формулу."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Властивості"
+
+#. Form11..GroupBox2..GridPanelEx1..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Стиль:"
+
+#. Form11..GroupBox2..GridPanelEx1..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Оберіть стиль для використання під час побудови нерівності. Не підходить для рівнянь."
+
+#. Form11..GroupBox2..GridPanelEx1..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "Оберіть колір для побудови відповідності."
+
+#. Form11..GroupBox2..GridPanelEx1..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Ширина:"
+
+#. Form11..GroupBox2..GridPanelEx1..Label4..Caption
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Стиль лінії:"
+
+#. Form11..GroupBox2..GridPanelEx1..LineSelect1....Hint
+msgid "Select line style used to draw equations and the border of inequalities."
+msgstr "Оберіть стиль лінії, котрий буде використано для побудови рівнянь та меж нерівностей."
+
+#. Form11..GroupBox2..GridPanelEx1..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Колір:"
+
+#. Form11..GroupBox2..GridPanelEx1..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Ширина лінії рівняння або межі нерівності."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Введіть відповідність, наприклад «x^2+y^2 = 25» або «y < sin(x)»"
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Введіть умови відповідності, наприклад «x > 0 and y < 5»"
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Вставити дотичну/перпендикуляр"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Величина, за якої дотична/перпендикуляр взаємодіятиме з функцією."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Оберіть дотичну або перпендикуляр."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Тип"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Дотична"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Перпендикуляр"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Додайте опис для показу в легенді. Якщо не додасте, відображатиметься рівняння."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Властивості графіку"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Ширина графіку в пікселях."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Обрати стиль лінії для побудови графіку."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Обрати колір графіку."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Діапазон агрументу"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Від:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "До:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Початок діапазону для змінної."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Кінець діапазону для змінної."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Кінцеві точки"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Початок:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Кінець:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Обрати маркер на початку інтервалу. Використовується лише якщо визначено діапазон аргументу."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Обрати маркер в кінці інтервалу. Використовується лише якщо визначено діапазон аргументу."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Вставити лінію тренду"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Лінія"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Вмонтовано"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Створити лінійну функцію: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Створити логарифмічну функцію: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Створити функцію многочлену: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Створити функцію ступеню: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Створити експоненціальну функцію: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Порядок:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Многочленна"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Логарифмічна"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Лінійна"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Ступеню"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Експоненціальна"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Створити рухому середню як послідовність прямих ліній."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Рухома середня"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Проміжок:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Визначає скільки точок буде використано для середньої."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Порядок многочлена. Наприклад, 2 — парабола."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Визначене користувачем"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Модель:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Додати модель"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Видалити модель"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Редагувати модель"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Ввести модель функції, на основі якої будуватиметься лінія тренду."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Введіть значення в поле Відрізок, щоб вказати точку, в якій ви хочете, щоб лінія тренда відповідала осі y. Доступно лише для лінійних, поліноміальних та експоненціальних трендових ліній."
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Відрізок ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Імпортувати з файлу..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "Імпортувати моделі користувачів з файлу."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "Експортувати все до файлу..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "Експортувати користувацькі моделі до файлу."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "Користувацькі моделі [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Вставити ряд точок"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Назва ряду точок, показана в переліку ліворуч від системи координат."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Ряд"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Так виглядатимуть маркери та лінії між маркерами."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Приклад"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Маркери"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Маркер"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Розмір:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Обрати розмір маркерів."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Обрати тип маркерів, показаний на кожній точці."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Обрати колір маркерів."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Інтерполяція:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Обрати стиль ліній, проведених між точками. Можна обрати не проводити ліній."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Обрати ширину ліній у пікселях."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Обрати, яку лінію малювати між маркерами."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "Одновимірний кубічний сплайн"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "Двовимірний кубічний сплайн"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Напівперіод синусоїда"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Обрати колір ліній."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "МІтки"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Розташування:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Поставте галочку аби показати координати для кожної точки."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Показувати координати"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Обрати розташування координат."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Вище"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Нижче"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Ліворуч"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Праворуч"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "Вище ліворуч"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "Вище праворуч"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "Нижче ліворуч"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "Нижче праворуч"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Button5..Hint
+msgid "Select the font for the coordinates."
+msgstr "Обрати шрифт для координат."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "Обрати між декартовими (x,y) координатами та полярними (θ,r) координатами."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "Тип координат"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "Декартові"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Полярні"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Планки похибок"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "Кількість помилок x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Показувати горизонтальні планки похибок."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "Показувати планки x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Всі планки похибок мають однаковий розмір."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Фіксоване:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Введіть значення виправлення."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Всі планки похибок мають однакове відсоткове значення в координатах x."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Відносне:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Кожна планка похибок має власне значення."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Власне"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Введіть відносне значення у відсотках."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "Кількість помилок y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Показувати вертикальні планки похибок."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Показувати планки y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Всі планки похибок мають однакове відсоткове значення в координатах y."
+
+#. Form14..Button4..Caption
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Застосувати"
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Вирізати обраний текст до буферу."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Скопіювати обраний текст до буферу."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Вставити текст з буферу на сітку. Інші комірки можуть бути перезаписані текстом з буферу обміну."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Видалити обрані комірки."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Вставити ряд"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Додає ряд до решітки зі зміщенням рядів на один униз."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Видалити ряд"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Видаляє обрані ряди."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Обрати все"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Обрати всі комірки."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Імпортувати дані з файлу й розмістити їх у вибраній комірці."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Експортувати обрані дані до файлу."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Обчислити таблицю"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Значення кроку. Це різниця між двома сусідніми значеннями у визначеному інтервалі."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Перше значення x в інтервалі."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Останнє значення x в інтервалі."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "Показати %s"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "Показати стовпчик %s у таблиці."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Скопіювати обрані комірки до буферу обміну."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Зберігає обрані дані до файлу."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Обчислення"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Розмежування комами) [*.csv]|*.csv|Текст [*.txt]|*.txt"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "Вставити штрихування"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Штрихування"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Заштриховує площину між функцією та віссю x."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Заштриховує площину під функцією."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Заштриховує площину над функцією."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Заштриховує площину між функцією та віссю y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Заштриховує площину всередині функції."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Заштриховує площину між основною функцією та функцією, обраною з переліку праворуч."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Над функцією"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Між функцією та віссю x"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Між функціями"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Між функцією та віссю y"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Всередині функції"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Під функцією"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Опції"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Діапазон"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Координата, з якої починається штрихування."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Координата, якою закінчується штрихування."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Поставте галочку аби збільшити кінцеву координату до перетину."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Збільшити до перетину"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Поставте галочку аби зменшити початкову координату до перетину."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Зменшити до перетину"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Оберіть стиль штрихування."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Оберіть колір штрихування."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "Відмітити межу навколо штрихування."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "Відмітити межу"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Введіть опис, котрий буде відображено в легенді."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "друга функція"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "друга функція:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Оберіть другу функцію якщо бажаєте додати штрихування між двома функціями."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Діапазон штрихування для 2-ї функції"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Власні функції/сталі"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Назви"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Опис"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Опції зображення"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Розмір"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Ширина зображення:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Висота зображення:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "Встановити власну ширину зображення в пікселях."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "Встановити власну висоту зображення в пікселях."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Обрати розмір як показано на екрані або власний розмір зображення."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Розмір зображення"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Розмір екрану"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Власний розмір"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "Прогресивне кодування дозволяє переглядачам бачити попередній перегляд в той час як зображення завантажуватиметься."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Кодування"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "Поступове"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Прогресивне"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Обрати якість стиснення."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Якість"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Розмір паперу:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Обрати орієнтування."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Орієнтування"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Книжкове"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Альбомне"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Оберіть розмір паперу."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "Лист"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "Гросбух"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "Бланк"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Оберіть це аби зберегти установки як типові на майбутнє."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Зберегти як типові"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Анімувати"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Коефіцієнт:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Оберіть сталу, котра змінюватиметься від кадру до кадру."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Крок:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "Перше значення коефіцієнту."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Останнє значення коефіцієнту."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Обраний коефіцієнт змінюється на це значення від кадру до кадру."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "Опції кадру"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "Ширина кадру:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "Висота кадру:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Кадрів на секунду:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "Ширина кожного кадру, пікселі."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "Висота кожного кадру, пікселі."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Кількість кадрів на секунду під час відтворення анімації."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Обробка"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Версія %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Збірка %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Це вільне програмне забезпечення, і ви можете поширювати його за умовами, описаними в <a href=\"%s\">GNU General Public License</a> версії 2. Будь ласка, про помилки та пропозиції покращення програми повідомляйте розробникові."
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Нова версія та початковий код доступні тут: %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Support: %s"
+msgstr "Підтримка: %s"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "Переклад українською: Дмитро Амельчев"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Анімація"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Відтворити"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Пауза"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Стоп"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Назад"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Крок"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Чергування аудіо-відео [*.avi]|*.avi"
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Швидкість"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Змінити швидкість відтворення анімації."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Повтор"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Повторювати відтворення анімації до зупинки вручну."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Автореверс"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Відтворювати у зворотньому порядку після завершення анімації. Найбільш корисно в поєднанні з командою «Повтор»."
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Зберегти анімацію до файлу."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "Зберегти кадр..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "Зберегти показаний кадр до графічного файлу."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "Зберегти всі кадри..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "Зберегти всі кадри анімації до графічних файлів. Дана дія створить стільки файлів, скільки кадрів містить анімація."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "Кут:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "Обрати, який кут мітки буде замкнено."
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "Верхній лівий"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "Верхній правий"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "Нижній лівий"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "Нижній правий"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "Ввести координату, де слід замкнути мітку."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "Інтерпретатор Python"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "Очистити"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Редагувати осі"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "вісь x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Мінімум:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Мінімальне значення x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Максимум:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Максимальне значення x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Одиниця точки:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Одиниць між точками осі x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Одиниця сітки:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "Одиниць між лініями сітки, перпендикулярними осі x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "Автоматично визначати одиниці точок."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Автоматично відмічати"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Показувати маркування точок на осі x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Показувати точки"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Встановити одиницю сітки такою ж, як і одиницю мітки."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Автоматична сітка"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Показувати вертикальні лінії сітки."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Показувати сітку"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "Використовувати логарифмічну шкалу на осі x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Логарифмічна шкала"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Показувати одиниці на осі x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Показувати числа"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Показувати одиниці на обраній осі як частки, помножені на π."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "Відображати як множник на π"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..GridPanelEx3..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..GridPanelEx2..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Редагувати мітку осі тут."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..GridPanelEx3..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Показувати мітку праворуч від площини графіку, над віссю x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..GridPanelEx3..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..GridPanelEx2..CheckBox10..Caption
+msgid "Label:"
+msgstr "Мітка:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..GridPanelEx4..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "Вісь x перетинатиметься з віссю y в цьому значенні."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..GridPanelEx4..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "Вісь x перетинається коли y="
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "вісь y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Мінімальне значення y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Максимальне значення y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Одиниць між точками на осі y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Одиниць між лініями сітки, перпендикулярними до осі y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Показувати маркери точок на осі y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Показувати горизонтальні лінії сітки."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Використовувати логарифмічну шкалу для осі y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Показувати одиниці на осі y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..GridPanelEx1..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "Вісь y перетинає вісь x коли x="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..GridPanelEx1..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "Вісь y перетинатиметься з віссю x при цьому значенні."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..GridPanelEx2..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Відображувати мітку у верхній частині площини, праворуч від осі y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Налаштування"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Назва:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Оберіть, чи відображувати осі, і яким чином: перехрещеними чи внизу зображення."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Стиль осей"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Відсутні"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Перехрещені"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Як рамка"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Обрати, чи тригонометричні функції обчислюватимуться в радіанах або градусах."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Тригонометрія"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Радіани"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Градуси"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Введіть назву, котру буде показано над системою координат."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Оберіть місце розташування легенди."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Розташування легенди"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Оберіть тут, чи користуватися складними числами. Зверніть увагу, що це може сповільнити побудову графіку."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Обчислювати зі складними числами"
+
+#. Form3..PageControl1..TabSheet3..Button7..Hint
+msgid "Select the font for the title."
+msgstr "Обрати шрифт для заголовку."
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Шрифт та колір"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Колір"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Колір сітки:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Колір осей:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Колір тла:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Оберіть колір тла зображення."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Оберіть колір осей."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Оберіть колір ліній сітки."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Шрифти"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Шрифт чисел:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Шрифт міток:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Шрифт легенд:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Button4..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Оберіть шрифт, котрий використовуватиметься для міток на осях."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Button5..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Оберіть шрифт, котрий використовується для відображення чисел на осях."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Button6..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Оберіть шрифт, котрий використовуватиметься для відображення тексту легенди."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Десяткові розряди:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Кількість чисел після коми, котрі відображуватимуться в результатах."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Формат, котрий використовуватиметься під час відображення складних чисел."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Складна форма"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Дійсний"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Прямокутний"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Нещодавні файли:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Кількість нещодавніх файлів, котрі відображуються в меню Файл."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Максимальна кількість повернень:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Максимальна кількість збережених дій для повернення. Оберіть 0 аби дії не зберігалися."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Масштаб шрифту:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Тут можна налаштувати розмір тексту інтерфейсу якщо вам важко читати текст даного розміру."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Мова:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Оберіть мову відображення інтерфейсу."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Показувати підказки коли курсор проходить над елементом."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Показувати підказки"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Зберігати розмір основного вікна під час закриття програми. Розмір відновлюватиметься під час наступного запуску Graph."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Зберігати робочий простір під час виходу"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Якщо стоїть галочка, то програма зв'язуватиметься з веб-сервером для перевірки наявності нових версій програми."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Перевіряти наявність нових версій Graph під час запуску"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "Використовувати власний десятковий розділювач замість стандартного, визначеного в налаштуваннях регіональних параметрів Windows."
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "Власний десятковий розділювач:"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "Десятковий розділювач використовується під час експорту до інших програм."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Вставити функцію"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Тип функції:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Обрати тип функції для побудови графіку."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Стандартна функція y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Параметрична функція x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Полярна функція r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Рівняння функції"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Кроки:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Кількість кроків обчислення, використаних для побудови графіка."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Тип побудови:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Оберіть Лінії якщо бажаєте аби точки було з'єднано. В іншому випадку оберіть Точки."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Автоматично"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Точки"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Лінії"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "Вставте текстову мітку"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Назва шрифту:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Розмір шрифту:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Колір шрифту:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Розмір шрифту."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Текстовий рядок"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Вставити символ (Ctrl+G)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "Вставити об'єкт."
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Жирний (Ctrl+B)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Курсив (Ctrl+I)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Підкреслення (Ctrl+U)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Закреслення (Ctrl+S)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Верхній індекс (Ctrl++)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Нижній індекс (Ctrl+=)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Вирівняти ліворуч (Ctrl+L)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Центрувати (Ctrl+E)"
+
+#. Form6..GroupBox1..Panel1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Вирівняти праворуч (Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Шрифт тексту."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Колір тексту."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Обрати колір тла текстової мітки."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Прозоре"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Скасувати останню дію."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Повернути скасовану дію."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Вставити вміст буферу обміну."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Вставити з опціями..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Обрати, як ви бажаєте вставити з буферу обміну."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Вставити об'єкт..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Створити новий об'єкт OLE."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Редагувати об'єкт"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Редагувати об'єкт OLE."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "Вставити f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Назва:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Коефіцієнт"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Значення"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Оберіть функцію або дотичну для оцінювання."
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Оберіть, де буде розміщено курсор коли ви натискаєте на зображення."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Введіть початкові координати або визначте діапазон графіку мишею."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Введіть кінцеві координати або визначте діапазон графіку мишею."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Притягнути до:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "X-координати, обчисленої для параметру t."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "Y-координати, обчисленої для параметру t."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Похідна x(t), обчислена для введеного параметру t."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Похідна y(t), обчислена для введеного параметру t."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "Похила функції, обчислена для введеного параметру t."
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Введіть значення параметру t, для якого бажаєте обчислити функцію."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Перетин"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "Крайнє значення x"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Крайнє значення y"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Відстань до функції, обчисленої для даного кута."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "Координата x, обчислена для даного кута."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "Координата y, обчислена для даного кута."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Похідна функції, обчисленої для даного кута."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Похила функції, обчисленої для даного кута."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Введіть значення полярного кута, для якого бажаєте обчислити функцію, або натисніть на графік у графічній площині."
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Введіть значення, для якого бажаєте обчислити функцію, або натисніть на графік у графічній площині."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Це — функція, обчислена за введеним значенням x."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Це — перша похідна функції, обчисленої за введеним значенням."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Це — друга похідна функції, обчисленої за введеним значенням."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Це — координата y, котра відповідає введеній координаті x."
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Введіть координату x або оберіть місце у графічній площині."
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Error %s"
+msgstr "Помилка %s"
+
+msgid "Length"
+msgstr "Довжина"
+
+msgid "Degrees"
+msgstr "Градуси"
+
+msgid "Label"
+msgstr "Мітка"
+
+msgid "%s-error"
+msgstr "%s-помилка"
+
+msgid "Axes"
+msgstr "Осі"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Вгору"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BkSp"
+
+msgid "Space"
+msgstr "Пробіл"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Сталася помилка під час обчислення експоненціальної функції."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Не визначено тангенс до π/2+n*π (90+n180 у градусах)"
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Результат може бути обчислено лише для додатніх цілих."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Неможливо взяти логарифм для числа, рівного або меншого від нуля."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "квадратний корінь не визначено для від'ємних чисел."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Частина обчислення дала число з уявною частиною."
+
+msgid "Division by zero."
+msgstr "Ділення на нуль."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Обернена тригонометрична функція поза діапазоном [-1;1]"
+
+msgid "The function is not defined for this value."
+msgstr "Функцію не визначено для даного значення."
+
+msgid "atanh evaluated at undefined value."
+msgstr "обернений гіперболічний тангенс обчислено за невизначеного значення."
+
+msgid "acosh evaluated at undefined value."
+msgstr "обернений гіперболічний косинус обчислено за невизначеного значення."
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) не визначено."
+
+msgid "Evaluation failed."
+msgstr "Оцінювання не вдалося."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Аргумент викликав результат функції з повною втратою точності."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "Спеціальну функцію/сталу '%s' не знайдено або вона має хибну кількість аргументів."
+
+msgid "Too many recursive calls."
+msgstr "Забагато повторів."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Перенасичення: Функція повернула значення надто велике для опрацювання."
+
+msgid "A plugin function failed: %s"
+msgstr "Функція плагіну не спрацювала: %s"
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Неочікуваний оператор. Оператор '%s' не можна розміщувати тут."
+
+msgid "The right bracket is missing."
+msgstr "Відсутня права дужка."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "Для функції '%s' подано хибну кількість аргументів"
+
+msgid "Comparison operator misplaced."
+msgstr "Хибне розташування оператору порівняння."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Знайдено недопустиме число. Користуйтесь форматом -5.475E-8"
+
+msgid "String is empty. You need to enter a formula."
+msgstr "Рядок порожній. Необхідно ввести формулу."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Тут не користуються комою. Використовуйте крапку для відділення десяткової частини."
+
+msgid "Unexpected end of brackets."
+msgstr "Неочікуване закриття дужок."
+
+msgid "Number, constant or function expected."
+msgstr "Тут має бути число, стала або функція."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Не можна додавати параметр після сталої або змінної."
+
+msgid "Expression expected."
+msgstr "Тут має бути вираз."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Невідома змінна, функція або стала: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Невідомий символ: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Неочікуване завершення виразу."
+
+msgid "Error parsing expression."
+msgstr "Помилка розбору виразу."
+
+msgid "A calculation resulted in an overflow."
+msgstr "Обчислення спричинило переповнення."
+
+msgid "An invalid value was used in the calculation."
+msgstr "В обчисленні вжито недійсне значення."
+
+msgid "Not enough points for calculation."
+msgstr "Недостатньо точок для обчислення."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Недопустима назва \"%s\" для функції або сталої, визначеної користувачем."
+
+msgid "Cannot differentiate recursive function."
+msgstr "Неможливо виділити рекурсивну функцію."
+
+msgid "Internal error."
+msgstr "Внутрішня помилка."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "Неможливо виділити функцію \"%s\"."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Під час обчислення відбулася невизначена помилка."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Не знайдено розв'язання. Спробуйте інший спосіб або іншу модель."
+
+msgid "No result found."
+msgstr "Не отримано результатів."
+
+msgid "An accurate result cannot be found."
+msgstr "Неможливо знайти точний результат."
+
+msgid "Memory allocation failed."
+msgstr ""
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Внутрішня помилка. Будь ласка, повідомте про неї розробникові якомога більш детально."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Необхідно ввести назву функції/сталої."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Неправильна назва функції/сталої '%s'.\n"
+"Назва може містити лише літери та десяткові числа, і має завжди починатися з літери.\n"
+"До того ж, не можна перевизначати системні назви."
+
+msgid "You need to enter a name for the argument."
+msgstr "Необхідно ввести назву аргументу."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Неправильна назва аргументу '%s'.\n"
+"Назва може містити лише літери та десяткові числа, і має завжди починатися з літери.\n"
+"До того ж, не можна використовувати системні назви як назви аргументів."
+
+msgid "Character found after brackets."
+msgstr "Знайдено символ після дужок."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "Символ \"%s\" визначено кілька разів."
+
+msgid "Invalid equation or inequality."
+msgstr "Недійсне рівняння або нерівність."
+
+msgid "Updating..."
+msgstr "Оновлення..."
+
+msgid "Save changes?"
+msgstr "Зберегти зміни?"
+
+msgid "Save changes in %s?"
+msgstr "Зберегти зміни в %s?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Ви досягли максимального наближення."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Ви досягли максимального віддалення."
+
+msgid "'%s' must not be zero."
+msgstr "'%s' не може дорівнювати нулю."
+
+msgid "Error in value"
+msgstr "Помилка значення"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' має бути цілим числом, більшим або рівним 0."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' має бути більшим від нуля."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' має бути цілим числом, більшим від нуля."
+
+msgid "Trying to break zoom limit."
+msgstr "Спроба подолати обмеження наближення."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' має бути більшим від '%s'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "Максимальне значення має бути більшим від мінімального."
+
+msgid "You need to enter a value."
+msgstr "Вам необхідно задати значення."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Даний файл було створено в Graph %s.\n"
+"Можна відкрити лише файли, створені версією %s і вище."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' не є дійсним числом."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' має бути додатнім числом."
+
+msgid "File not found: %s"
+msgstr "Файл не знайдено: %s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Помилка зчитування файлу: %s\n"
+"Даний файл не є дійсним файлом Graph."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Невідома помилка під час зчитування файлу: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Файли Graph [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Неможливо записати до файлу: %s\n"
+"Відмовлено в доступі. Перевірте, чи файл не відкритий і чи не захищений від запису."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "Шрифт \"%s\" не існує. Натомість вживатиметься стандартний шрифт."
+
+msgid "Graph system"
+msgstr "Графічна система"
+
+msgid "Open"
+msgstr "Відкрити"
+
+msgid "Selection error"
+msgstr "Помилка вибору"
+
+msgid "File error"
+msgstr "Помилка файлу"
+
+msgid "Write access failed"
+msgstr "Запис не дозволено"
+
+msgid "OLE error"
+msgstr "Помилка OLE"
+
+msgid "Error reading object"
+msgstr "Помилка зчитування об'єкту"
+
+msgid "Not a valid Graph object."
+msgstr "Не є дійсним об'єктом Graph."
+
+msgid "Object error"
+msgstr "Помилка об'єкту"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "Windows не має достатньо ресурсів аби зберегти зображення такого розміру."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' має бути між %2% і %3%."
+
+msgid "File not found"
+msgstr "Файл не знайдено"
+
+msgid "Error reading file"
+msgstr "Помилка зчитування файлу"
+
+msgid "Printer error"
+msgstr "Помилка принтера"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "Неправильне використання нескінченності. Тут не можна використовувати нескінченність."
+
+msgid "Not enough memory to complete the operation."
+msgstr "Недостатньо пам'яті аби виконати операцію."
+
+msgid "Printing aborted!"
+msgstr "Друк скасовано!"
+
+msgid "Confirm delete"
+msgstr "Підтвердіть видалення"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Чи ви дійсно бажаєте видалити %s?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Файли Graph [*.grf]|*.grf|Всі файли [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (розділення крапкою з комою) [*.csv]|*.csv|CSV (розділення комою) [*.csv]|*.csv|Текст (розділення табуляцією) [*.txt]|*.txt|Текст (розділення пробілом) [*.txt]|*.txt|Всі файли [*.*]|*.*"
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Чи ви напевне бажаєте видалити таку модель: %s?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "Максимальне число на осі x має бути більшим за мінімальне значення."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "Максимальне число на осі y має бути більшим за мінімальне значення."
+
+msgid "Server application not found."
+msgstr "Серверний додаток не знайдено."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "Максимальне число для t має бути більшим, аніж мінімальне значення."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "Значення кроку для t має бути числом, більшим за 0."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Мінімальне значення осі x має бути більшим від 0, якщо вісь x має логарифмічну шкалу."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Точка перетину осі y має бути більшою від 0, якщо вісь x має логарифмічну шкалу."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Мінімальне значення для осі y має бути більшим від 0, якщо вісь y має логарифмічну шкалу."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Точка перетину осі x має бути більшою за 0, якщо вісь y має логарифмічну шкалу."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "'Нещодавні файли' мають бути між 0 та 9."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Кінець відрізка має бути більшим, аніж початок відрізка."
+
+msgid "Error in interval."
+msgstr "Помилка у відрізку."
+
+msgid "The width must be an integer greater than 0."
+msgstr "Ширина має бути цілим числом, більшим від 0."
+
+msgid "Error in width"
+msgstr "Помилка в ширині"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Кінець відрізку має бути більшим за початок відрізку, а %s має бути більшим від 0."
+
+msgid "Invalid model name."
+msgstr "Хибна назва моделі."
+
+msgid "A model of that name already exist."
+msgstr "Модель з такою назвою вже існує."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "Похідну функції не визначено для %s=%s"
+
+msgid "Coordinate not defined"
+msgstr "Координату не визначено"
+
+msgid "Checking for newer version..."
+msgstr "Перевірка на наявність нової версії..."
+
+msgid "Abort printing?"
+msgstr "Скасувати друк?"
+
+msgid "Calculate area"
+msgstr "Обчислити площу"
+
+msgid "Calculate length of path"
+msgstr "Обчислити довжину шляху"
+
+msgid "Edit function"
+msgstr "Редагувати функцію"
+
+msgid "Edit tangent/normal"
+msgstr "Редагувати дотичну/перпендикуляр"
+
+msgid "Error processing file at line %s."
+msgstr "Помилка обробки файлу в рядку %s."
+
+msgid "Edit text label"
+msgstr "Редагувати текстову мітку"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "Модель потребує щоб Graph знайшов сталі (починаються з $)."
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' має бути цілим числом між 0 та 1000."
+
+msgid "Printing error"
+msgstr "Помилка друку"
+
+msgid "An unknown error occurred while printing."
+msgstr "Сталася невідома помилка під час друку."
+
+msgid "Error while adding points"
+msgstr "Помилка під час додавання точок"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Кожна точка потребує як x-, так і y- координат."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" не є дійсним числом."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Ви не додали точок. Необхідно визначити координати x та y на сітці."
+
+msgid "Edit point series"
+msgstr "Кінцева точка ряду"
+
+msgid "Edit shading"
+msgstr "Редагувати штрихування"
+
+msgid "You need to select a function."
+msgstr "Слід обрати функцію."
+
+msgid "New version of Graph available"
+msgstr "Доступна нова версія Graph"
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s можна завантажити з www.padowan.dk\n"
+"\n"
+"Чи бажаєте відвідати сторінку завантаження?"
+
+msgid "No new version"
+msgstr "Нові версії відсутні"
+
+msgid "You are already using the most recent version of Graph."
+msgstr "Ви вже користуєтеся найновішою версією Graph."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Неможливо підключитися до серверу www.padowan.dk.\n"
+"Сервер відключено або ваш комп'ютер не під'єднано до інтернету."
+
+msgid "Socket error %s"
+msgstr "Помилка підключення %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "Означений інтеграл, або орієнтована площа між функцією та віссю x, для лінійного ряду даної області визначення."
+
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Довжина шляху вздовж кривої, обчислена для даного лінійного ряду."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"Неможливо відкрити файл у даній версії програми.\n"
+"Для відкриття даного файлу необхідна версія Graph %s."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"Файл було збережено застарілою версією Graph,\n"
+"його неможливо відкрити в даній версії."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Якщо більше не бажаєте подібних питань, можна вимкнути функцію у вікні Редагування|Опції."
+
+msgid "Edit relation"
+msgstr "Редагувати відношення"
+
+msgid "Commands"
+msgstr "Команди"
+
+msgid "(All Commands)"
+msgstr "(Всі Команди)"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Аби додати команду до панелі інструментів, просто оберіть категорію та перетягніть команду з цього вікна до панелі інструментів."
+
+msgid "Edit f'(x)"
+msgstr "Редагувати f'(x)"
+
+msgid "Edit trendline"
+msgstr "Редагувати лінію тренду"
+
+msgid "Categories:"
+msgstr "Категорії:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"Схоже, програма зациклилася.\n"
+"Якщо скасувати операцію, програма стане нестабільною.\n"
+"Тому вам слід зберегти дані з новою назвою і перезапустити додаток."
+
+msgid "Thread is not responding"
+msgstr "Процес не відповідає"
+
+msgid "Insert symbol"
+msgstr "Вставити символ"
+
+msgid "Subset:"
+msgstr "Підмножина:"
+
+msgid "Insert"
+msgstr "Вставити"
+
+msgid "Select color"
+msgstr "Обрати колір"
+
+msgid "Customize"
+msgstr "Пристосувати"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Cannot open clipboard: %s"
+msgstr "Неможливо відкрити буфер обміну: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "Не обрано жодного принтеру."
+
+msgid "Install for all users"
+msgstr "Встановити для всіх користувачів"
+
+msgid "Examples"
+msgstr "Приклади"
+
+msgid "Local"
+msgstr "Локальні"
+
+msgid "Global"
+msgstr "Глобальні"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Друк"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Шкала:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Принтер"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Тип:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Де:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Коментар:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Оберіть принтер. Можна скористатися кнопкою «Властивості» для більш детального налаштування принтеру."
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Положення (міліметри)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Ліва межа:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Верхня межа:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "Центрувати за площиною друку сторінки."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Центрувати за сторінкою"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "Визначте площину друку сторінки. Принтер друкуватиме лише в цих межах."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Кількість копій:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Оберіть кількість копій на друк."
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Введіть відсоткове значення від початкового розміру."
+
+#: ../Plugins/PluginManager/__init__.py:14
+msgid "The Plugin Manager is used to install and remove Graph plugins from  a single .py file or a package in a .zip file."
+msgstr "Керування плагінами потрібне для того, щоб встановлювати та видаляти плагіни Graph з  єдиного файлу .py або пакунку в форматі .zip."
+
+#: ../Plugins/PluginManager/__init__.py:62
+msgid "Overwrite plugin?"
+msgstr "Перевстановити плагін?"
+
+#: ../Plugins/PluginManager/__init__.py:62
+msgid "Plugin \"%s\" is already installed. Do you want to overwrite it?"
+msgstr "Плагін \"%s\" вже встановлено. Бажаєте перевстановити його?"
+
+#: ../Plugins/PluginManager/__init__.py:72
+msgid "\"%s\" is not a valid Graph plugin as it does not have a __init__.py file in the root."
+msgstr "\"%s\" не є чинним плагіном Graph і не має файлу __init__.py в кореневому розташуванні."
+
+#: ../Plugins/PluginManager/__init__.py:72
+msgid "Install failed"
+msgstr "Встановлення зазнало невдачі"
+
+#: ../Plugins/PluginManager/__init__.py:92
+msgid "The plugin will keep running until Graph is closed. Are you sure you want to uninstall the plugin \"%s\"?"
+msgstr "Плагін продовжуватиме роботу допоки Graph не буде закрито. Чи бажаєте видалити плагін \"%s\"?"
+
+#: ../Plugins/PluginManager/__init__.py:92
+msgid "Uninstall plugin?"
+msgstr "Видалити плагін?"
+
+#: ../Plugins/PluginManager/__init__.py:100
+msgid "Failed to uninstall the plugin \"%s\". You may not have access rights to delete the file."
+msgstr "Не вдалося видалити плагін \"%s\". Можливо ви немаєте прав доступу для видалення файлу."
+
+#: ../Plugins/PluginManager/__init__.py:110
+msgid "Import and remove Graph plugins."
+msgstr "Імпортування та видалення плагінів Graph."
+
+#: ../Plugins/ShowConsole.py:5
+msgid "Show Console"
+msgstr "Показувати консоль"
+
+#: ../Plugins/ShowConsole.py:7
+msgid "This is a very simple plugin that creates a menu item to show/hide the Python interpreter window."
+msgstr "Це дуже простий плагін, котрий створює пункт меню, котрий показує/приховує вікно інтерпретатора Python."
+
+#: ../Plugins/ShowConsole.py:13
+msgid "Show Python interpreter"
+msgstr "Показати інтерпретатор Python"
+
+#: ../Plugins/ShowConsole.py:13
+msgid "Show the Python interpreter window."
+msgstr "Показати вікно інтерпретатора Python."
+
+#~ msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+#~ msgstr "Обчислювальну таблицю можна частково або цілком експортувати до файлу: клацніть правою кнопкою та оберіть «Експортувати до файлу». Файл можна відкрити в інших програмах, наприклад Microsoft Excel."
+
+#~ msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+#~ msgstr "Вертикальну лінію при x=5 можна побудувати параметричною функцією x(t)=5, y(t)=t або відповідністю x=5."
+
+#~ msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+#~ msgstr "Окрім прозорого, можна обрати кольорове тло міток. Це особливо корисно для міток, розміщених над штрихуванням."
+
+#~ msgid "Black && white"
+#~ msgstr "Чорно-білий"
+
+#~ msgid "Calc|Table can be used to create a table with evaluation values for a function."
+#~ msgstr "Обчислювання|Таблиця використовується для створення таблиці з обчислювальними значеннями для функції."
+
+#~ msgid "Color"
+#~ msgstr "Колір"
+
+#~ msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+#~ msgstr "Власні текстові мітки можна прикріпити до осей правим клацанням на мітці та обранням розміщення з контекстного меню."
+
+#~ msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+#~ msgstr "Дані з обчислювальної таблиці можна копіювати до інших програм, наприклад Microsoft Excel."
+
+#~ msgid "Did you know..."
+#~ msgstr "Чи ви знали..."
+
+#~ msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+#~ msgstr "Елементи (функції, штрихування, мітки, співвідношення і т. д.) будуються в тому порядку, в якому вони записані в переліку функцій ліворуч."
+
+#~ msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+#~ msgstr "Елементи, такі як функції, ряди точок і т. д. можна копіювати з одного вікна програми до іншого використовуючи Редагування|Копіювати."
+
+#~ msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+#~ msgstr "Graph може зберегти дану систему координат у п'яти різних форматах зображення: bmp, emf, png, jpg та pdf."
+
+#~ msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+#~ msgstr "Graph запам'ятовує розмір основного вікна після закриття програми. Функцію можна відключити у вікні Опції."
+
+#~ msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+#~ msgstr "Якщо ви оберете «Зберегти як типові» в діалозі «Вісі», дані установки вживатимуться як типові від час створення нової системи координат."
+
+#~ msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+#~ msgstr "Якщо ви не бажаєте, аби елемент було показано в легенді, клацніть елемент правою клавішею в переліку функцій та зніміть галочку «Показувати в легенді»."
+
+#~ msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+#~ msgstr "Якщо ви натиснули Редагування|Скасувати випадково, скористайтеся Редагування|Повторити для того, щоб повернути те, що ви скасували."
+
+#~ msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+#~ msgstr "Якщо бажаєте аби осі розташовувалися вздовж лівої та нижньої межі зображення, у вкладці Налаштування у вікні Осі оберіть стиль осі «Як рамка»."
+
+#~ msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+#~ msgstr "В більшості місць, таких як рядах точок, налаштуваннях осей, діапазонах функцій і т. д. можна використовувати вирази на зразок pi/4 замість чисел."
+
+#~ msgid "In the Axes dialog you can add a title to the coordinate system."
+#~ msgstr "У вікні Осі можна додати назву для системи координат."
+
+#~ msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+#~ msgstr "У вікні «Зберегти як зображення...» існує кнопка Опції, де можна задати роздільну здатність зображення. Це буде корисно якщо вам потрібне зображення високої роздільної здатності."
+
+#~ msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+#~ msgstr "Замість видалення функції, можна прибрати галочку з об'єкту в переліку функцій, і зробити її невидимою."
+
+#~ msgid "Next tip"
+#~ msgstr "Наступна порада"
+
+#~ msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+#~ msgstr "Ряди точок можуть мати стрілки в якості маркерів. Ряд точок зі стрілками в якості маркерів та лініями між точками можна використовувати для зображування векторів."
+
+#~ msgid "Previous tip"
+#~ msgstr "Попередня порада"
+
+#~ msgid "Print output"
+#~ msgstr "Виведення друку"
+
+#~ msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+#~ msgstr "Оберіть кольоровий друк (або відтінки сірого якщо ваш принтер чорно-білий) або перетворення всіх кольорів на чорний."
+
+#~ msgid "Show tip of the day"
+#~ msgstr "Показувати пораду дня"
+
+#~ msgid "Show tips at startup"
+#~ msgstr "Показувати поради під час запуску"
+
+#~ msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+#~ msgstr "Текстові мітки можуть містити будь-які об'єкти OLE, наприклад Microsoft Equation. Під час редагування мітки клацніть правою кнопкою в полі редагування й оберіть «Вставити об'єкт»"
+
+#~ msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+#~ msgstr "Дані для ряду точок можна копіювати з або до інших програм, наприклад Microsoft Excel."
+
+#~ msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+#~ msgstr "Легенду можна вільно переміщувати мишею або прикріплювати до одного з кутів правим клацанням на легенді та обранням розміщення з контекстного меню."
+
+#~ msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+#~ msgstr "Ця Порада дня може порадити те, чого не знає більшість користувачів програми."
+
+#~ msgid "Tip of the day"
+#~ msgstr "Порада дня"
+
+#~ msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+#~ msgstr "Коли обрано ряд точок, можна додати точки затиснувши клавішу Ctrl та клацаючи лівою кнопкою на зображенні."
+
+#~ msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+#~ msgstr "Під час додавання ряду точок можна копіювати дані з програм на зразок Microsoft Excel, а вставляти дані до сітки в програмі Graph."
+
+#~ msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+#~ msgstr "Якщо затиснути клавішу Shift, можна перетягувати систему координат мишею."
+
+#~ msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+#~ msgstr "Якщо затиснути клавішу Ctrl, можна користуватися клавішами + та - аби наближувати або віддаляти."
+
+#~ msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+#~ msgstr "Якщо затиснути клавішу Ctrl, можна рухати систему клавішами зі стрілками."
+
+#~ msgid "You can always undo the last thing you did using Edit|Undo."
+#~ msgstr "Завжди можна скасувати останню дію через Редагування|Скасувати."
+
+#~ msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+#~ msgstr "Дві функції можна поєднати в одну використовуючи «if». Наприклад, функцію f(x)=x for x<1 and f(x)=x^2 for x>=1 можна записати як f(x)=if(x<1, x, x^2)."
+
+#~ msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+#~ msgstr "Можна створювати власні сталі для використання у функціях, рядах точок і т. д. у вікні Функція|Власні функції. Наприклад, g=9.80665, R=8.31"
+
+#~ msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+#~ msgstr "Можна створювати власні користувацькі функції у вікні Функція|Власні функції для використання у графіках функції, відповідностях і т. д. Наприклад, sinc(x)=if(x=0, 0, sin(x)/x)"
+
+#~ msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+#~ msgstr "Можна пристосовувати панель інструментів так: клікніть правою кнопкою на панелі інструментів та оберіть «Пристосувати панель інструментів»."
+
+#~ msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+#~ msgstr "Щоб відкрити файл grf, можна його перетягнути з провідника до Graph."
+
+#~ msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+#~ msgstr "Точки з ряду можна експортувати до файлу до файлу, котрий зможуть зчитувати інші програми, наприклад Microsoft Excel. Під час редагування ряду точок, клацніть правою кнопкою миші та оберіть «Експортувати до файлу»."
+
+#~ msgid "You can find a list of all available functions in the help."
+#~ msgstr "Перелік усіх доступних функцій можна знайти в допомозі."
+
+#~ msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+#~ msgstr "Можна отримати допомогу в користуванні Graph, повідомляти про помилки та пропонувати майбутні покращення на веб-форумі:  <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+
+#~ msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+#~ msgstr "Можна імпортувати ряд точок з файлу, збереженого іншими програмами, наприклад Microsoft Excel."
+
+#~ msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+#~ msgstr "Можна імпортувати вміст іншого файлу Graph до поточної системи координат через «Файл|Імпорт|Файл Graph»."
+
+#~ msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+#~ msgstr "Можна переміщувати обраний елемент або перетягуванням мишею, або клавішами зі стрілками «вгору/вниз» із затисненою клавішею ALT."
+
+#~ msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+#~ msgstr "Можна відкрити збережений файл grf у новому вікні програми двічі клацнувши по ньому в Провіднику."
+
+#~ msgid "You can paste images into a text label."
+#~ msgstr "У текстову мітку можна вставляти зображення."
+
+#~ msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+#~ msgstr "Можна відображувати функції та інші елементи за осями якщо розмістити елементи над осями в переліку функцій ліворуч. Аби перемістити штрихування й дотичні, необхідно перемістити функцію, до котрої вони прив'язані."
+
+#~ msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+#~ msgstr "Можна використати «Редагування|Скопіювати зображення» аби скопіювати систему координат і вставити її до іншої програми, наприклад Microsoft Word. Потім можна редагувати зображення у Graph двічі клацнувши на зображення в іншій програмі."
+
+#~ msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+#~ msgstr "Можна використовувати «Масштаб|Вмістити все» аби змінити систему координат так, аби всі функції та ряди точок було видно."
+
+#~ msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+#~ msgstr "Можна використати Обчислення|Оцінити для того, аби знайти точки перетину між функціями, функцій з осями та екстремумами."
+
+#~ msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+#~ msgstr "Можна використовувати «Масштаб|Вмістити» аби змінити систему координат так, аби показати всі частини обраної функції або ряду точок."
+
+#~ msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+#~ msgstr "Можна використовувати Масштаб|Рівносторонній для рівномірного масштабування осей. Це особливо корисно під час побудови кіл та подібних функцій."
+
+#~ msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+#~ msgstr "Можна використовувати відповідність аби будувати графік для будь-якого рівняння, наприклад x*sin x = y*cos y"
+
+#~ msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+#~ msgstr "Можна використовувати відповідність аби будувати графік для будь-якої нерівності, наприклад sin(x^2) < cos(y^2)"
+
+#~ msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+#~ msgstr "Можна користуватися коліщатком миші аби наближувати або віддаляти від розташування курсору."

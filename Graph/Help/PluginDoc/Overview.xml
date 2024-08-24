@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="Overview" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Overview</title>
+	<indexterm><primary>Overview</primary></indexterm>
+	<para>
+	<para>
+		The scripting engine can be used to create plugins or to enter commands and access advanced features directly in Graph.
+	  Graph uses the 32-bit version of Python 3.7 as scripting engine. Graph comes bundled with Python, so you don't need to install it yourself.
+	  However if Graph finds Python 3.7 installed it will use that installation instead.
+		Documentation of the Python language may be found installed with Python or <ulink url="http://docs.python.org/3.7/">online</ulink>.
+	</para>
+
+	<simplesect>
+		<title>Plugins</title>
+		<para>
+			A plugin will usually register some a callback function to be called when some event occur when the plugin is loaded.
+			This can for example be a function that is called when a menu item is selected.
+			This function will when do the actual work of the plugin.
+			The work done when the plugin is loaded should be kept to a minimum to keep loading time low.
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Placement</title>
+		<para>
+			Plugins are Python scripts and are usually distributed in source form as .py files but they can also be distributed as compiled .pyc files.
+			When placed in the correct folder, they will be automatically loaded when Graph starts.
+			The plugin files can be placed in two locations:
+			<orderedlist>
+			  <listitem>
+			    <para>Plugins placed in the local data folder, e.g. <filename>C:\Users\John Doe\AppData\Local\Graph\Plugins</filename>, are only accessible to the current user.</para>
+			  </listitem>
+			  <listitem>
+					<para>Plugins placed in the <filename>Plugins</filename> folder where Graph is installed, usually <filename>C:\Program Files (x86)\Graph\Plugins</filename>, are accessible for all users.</para>
+				</listitem>
+			</orderedlist>
+		</para>
+		<para>
+		  A plugin can either be a .py file placed in the <filename>Plugins</filename> folder or a package in which case it will be in a subfolder in a file named <filename>__init__.py</filename> 
+		</para>
+	</simplesect>
+
+  <simplesect>
+    <title>Plugin Manager</title>
+    <para>
+      Graph comes with a Plugin Manager, that is actually itself just a plugin. It makes it easy to install and remove plugins from third parties.
+      A plugin should add the attributes <property>PluginName</property>, <property>PluginVersion</property> and <property>PluginDescription</property> as
+      strings to the global namespace of the plugin module to give information to the Plugin Manager. For example:
+ 		  <programlisting>
+PluginName = "An example plugin"
+PluginVersion = "1.0"
+PluginDescription = "This is just an example of how to create a plugin."
+		  </programlisting>
+		  
+		  The Plugin Manager can install .py and .pyc files directly and .zip-files that are Python packages, i.e. 
+		  it must contain a __init__.py or __init__.pyc file in the root of the .zip-file.
+    </para>
+  </simplesect>
+
+	<simplesect>
+		<title>Python interpreter</title>
+		<para>
+			You can also use the scripting engine through the Python interpreter shown when you press <shortcut><keycap><markup>F11</markup></keycap></shortcut> inside Graph.
+			In this interpreter you can write Python expressions and that way do very advanced things.
+			It is also an easy way to test code before it is used in a plugin.
+		</para>
+	</simplesect>
+	</para>
+</chapter>

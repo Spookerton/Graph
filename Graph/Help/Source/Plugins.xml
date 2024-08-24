@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="Plugins">
+	<title>Plugins</title>
+	<indexterm><primary>plugins</primary></indexterm>
+	<indexterm><primary><markup>Python</markup></primary></indexterm>
+	<para>
+		Graph uses <application>Python 3.7</application>, which is installed with Graph, as scripting engine.
+		However if you have <application>Python 3.7</application> installed, Graph will use that installation 
+		instead of the bundle that comes with Graph.
+		Documentation of the Python language may be found online at <ulink url="http://docs.python.org/3.7/" />.
+	</para>
+
+	<simplesect>
+		<title>Plugins</title>
+		<para>
+			Plugins are Python scripts and are usually distributed in source form as .py files but they can also be distributed as compiled .pyc files.
+			The plugin files are either placed in the <filename>Plugins</filename> folder where Graph is installed or in the local data folder, 
+			e.g. <filename>C:\Users\John Doe\AppData\Local\Graph\Plugins</filename>, and will automatically be found and loaded by Graph.
+			Documentation of the API, which plugins can use to interact with Graph, may be found in the Scripting engine documentation.
+		</para>
+		<warning>
+			<para>
+				 Plugins are scripts, which are just small programs that run inside Graph and interacts with Graph.
+				 But a plugin can do anything that a program with the same rights can do.
+				 This means that if Graph is run with administrator rights, it is possible to write a plugin that erases the whole hard disk.
+				 Therefore you should be careful about which plugins you use and only install plugins from a trusted source,
+				 or at least you should check the source code for suspicious parts.
+			</para>
+		</warning>
+	</simplesect>
+
+  <simplesect>
+    <title>Plugin Manager</title>
+    <para>
+      Graph comes with a Plugin Manager, that is actually itself just a plugin. It makes it easy to install and remove plugins from third parties.
+		  The Plugin Manager can install .py and .pyc files directly and .zip-files that are Python packages, i.e. 
+		  it must contain a __init__.py or __init__.pyc file in the root of the .zip-file.
+    </para>
+  </simplesect>
+
+	<simplesect>
+		<title>Python interpreter</title>
+		<para>
+			<graphic fileref="DialogInterpreter.png" align="center" scale="60"/>
+		</para>
+		<para>
+			The plugin system also gives access to a Python interpreter by pressing <shortcut><keycap><markup>F11</markup></keycap></shortcut>.
+			In this interpreter you can write Python expressions and that way do very advanced things in Graph.
+			It is also an easy way to test code before it is used in a plugin.
+		</para>
+	</simplesect>
+</chapter>

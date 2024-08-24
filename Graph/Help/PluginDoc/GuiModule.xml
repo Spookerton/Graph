@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="Gui" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title><classname>Gui</classname> module</title>
+	<indexterm><primary>Gui (module)</primary></indexterm>
+	<para>
+		<variablelist>
+			<varlistentry>
+				<term>
+					<indexterm><primary>ScaledVcl (in module Gui)</primary></indexterm>
+					<classname>Gui</classname>.<property>ScaledVcl</property>
+				</term>
+				<listitem>
+					<para>
+					  This can be used as a replacement for the vcl module when creating GUI controls.
+					  Controls created through this can be configured for 96 dpi and will be automatically scaled
+					  depending on the dpi of the screen.
+            <example>
+            <title>Example of creating scaled VCL controls</title>
+            <programlisting>
+from Gui import ScaledVcl
+Form = ScaledVcl.TForm(None, ClientWidth=132, ClientHeight=100)
+Edit = ScaledVcl.TEdit(None, Parent=Form, Width=100, Left=16, Top=16)
+Button = ScaledVcl.TButton(None, Parent=Form, Left=26, Top=50, Width=80, Caption="Close", ModalResult=1)
+Form.ShowModal()
+            </programlisting>
+            </example>
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Delay (in module Gui)</primary></indexterm>
+					<classname>Gui</classname>.<property>Delay</property>(<parameter>Timeout</parameter>)
+				</term>
+				<listitem>
+					<para>
+					  Delay for a given time without blocking Graph. <parameter>Timeout</parameter> is given in milliseconds.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>DelayCall (in module Gui)</primary></indexterm>
+					<classname>Gui</classname>.<property>DelayCall</property>(<parameter>Func, Timeout, Args=()</parameter>)
+				</term>
+				<listitem>
+					<para>
+					  Execute a function after a given time. <parameter>Func</parameter> is the function to call. 
+					  <parameter>Args</parameter> is an optional tuple with arguments to the function.
+					  <parameter>Timeout</parameter> is the time to wait in milliseconds.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>LoadDfmFile (in module Gui)</primary></indexterm>
+					<classname>Gui</classname>.<property>LoadDfmFile</property>(<parameter>FileName</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Load a DFM text file given by <parameter>FileName</parameter> usually created by Embarcadero Delphi or C++ Builder.
+						A TForm object created from the file is returned.
+					</para>
+				</listitem>
+			</varlistentry>
+    </variablelist>
+	</para>
+</chapter>

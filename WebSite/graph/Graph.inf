@@ -1,0 +1,31 @@
+[Graph]
+Name = Graph
+Major = 4
+Minor = 4
+Release = 2
+Build = 542
+Date = 20-12-2012
+DownloadPage = http://www.padowan.dk/download
+SupportPage = http://forum.padowan.dk
+DonatePage = http://www.padowan.dk/donate
+
+[English]
+NewFeatures = · Added support for plugins written in Python.
+NewFeatures = · Added Python interactive command interpreter.
+NewFeatures = · Images can now be saved as SVG (Scalable Vector Graphics).
+NewFeatures = · -INF and +INF can now be used for the range of the integrate function and when calculating area.
+NewFeatures = · Accuracy of integrate function and area calculation is improved.
+NewFeatures = · Added Chinese (Simplified), Basque, Korean, Norwegian, Persian, Portugues (Portugal), Turkish and Arabic translations.
+NewFeatures = · Zoom|Square is again a one time command. It will no longer lock the aspect ratio.
+NewFeatures = · The help file now works under Windows Vista and Windows 7.
+
+
+[Danish]
+NewFeatures = · Tilføjet understøttelse for Python plugins.
+NewFeatures = · Tilføjet Python interaktiv kommandofortolker.
+NewFeatures = · Koordinatsystemet kan nu gemmes som SVG (Scalable Vector Graphics).
+NewFeatures = · -INF and +INF kan nu bruges som minus/plus uendelig ved integration og beregning af areal.
+NewFeatures = · Forbedret nøjagtighed på integrate funktion og ved beregning af areal.
+NewFeatures = · Zoom|Kvadratisk er igen en engangskommando. Den vil ikke længere låse indstillingen.
+NewFeatures = · Hjælpefilen virker nu under Windows Vista og Windows 7.
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "dtd/dblite.dtd">
+<root>
+  <subtitle id="version">Version <markup>4.5</markup></subtitle>
+  <bookinfo id="copyright">
+    <authorgroup>
+    </authorgroup>
+    <copyright>
+      <year>2019</year>
+      <holder>Ivan Johansen</holder>
+    </copyright>
+  </bookinfo>
+</root>

@@ -1,0 +1,69 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.5.0.580
+MinVersion = 2.5
+OS = Windows NT 6.2 
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 2
+yMin = -10
+yMax = 10
+yTickUnit = 5
+yGridUnit = 5
+AxesColor = clBlue
+GridColor = 0x00FF7F7F
+NumberFont = Times New Roman,12,clBlack,B
+LabelFont = Times New Roman,14,clBlack,B
+ShowLegend = 1
+Radian = 1
+TitleFont = Times new roman,20,clBlack,B
+
+[Func1]
+FuncType = 0
+y = 5x^4-10x^2-2
+Color = clRed
+Size = 2
+TanCount = 1
+
+[Func1Tan1]
+t = -0.985
+Style = 1
+Color = 0x00336600
+Size = 2
+ShowInLegend = 0
+DrawType = 2
+
+[Func2]
+FuncType = 0
+y = cos x-5
+Style = 2
+Color = 0x00CC3366
+Size = 2
+TanCount = 1
+
+[Func2Tan1]
+t = 1
+Style = 3
+Color = 0x009933FF
+Size = 2
+ShowInLegend = 0
+DrawType = 2
+
+[Label1]
+Placement = 0
+Pos = -9.46784922394679;5.72815533980583
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\lang1030\\f0\\fs28 y=-0.8415x -3.6182\\b\\fs24\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 1
+FuncCount = 2
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 0
+
